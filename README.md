@@ -32,9 +32,8 @@
 
 <div align="center">
   <h3>📜 Certificaciones y Formación Continua</h3>
-</div>
-
-| Organización | Certificación / Logro |
+  
+  | Organización | Certificación / Logro |
 | :--- | :--- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="20"/> **Google Cloud** | **Implement Load Balancing on Compute Engine** <br> *Skill Badge - Validación técnica de arquitectura en la nube.* |
 | 🎓 **Duoc UC** | **Especialización en Ciencia de Datos** <br> *Análisis de datos, modelos predictivos y Big Data.* |
