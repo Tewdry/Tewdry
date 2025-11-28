@@ -33,10 +33,10 @@
 <div align="center">
   <h3>📊 Actividad</h3>
   <br>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tewdry&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tewdry&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="langs"/>
-  </p>
+  <a href="https://github.com/Tewdry">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tewdry&show_icons=true&theme=dracula&hide_border=true" height="160" alt="Gabriel's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tewdry&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
+  </a>
 </div>
 
 ---
