@@ -31,11 +31,16 @@
 ---
 
 <div align="center">
-  <h3>📊 Actividad</h3>
-  <br>
-  <a href="https://github.com/Tewdry">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tewdry&show_icons=true&theme=dracula&hide_border=true" height="160" alt="Gabriel's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tewdry&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
+  <h3>🔥 Constancia y Racha</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tewdry&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🏆 Trofeos</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tewdry&theme=git_dark&no-frame=true&margin-w=15&no-bg=true" alt="trophy" />
   </a>
 </div>
 
