@@ -31,23 +31,6 @@
 ---
 
 <div align="center">
-  <h3>📊 Estadísticas de GitHub</h3>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tewdry&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tewdry&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
   <h3>📫 Contáctame</h3>
   <p>
     <a href="https://www.linkedin.com/in/gabrielcamilov" target="_blank">
