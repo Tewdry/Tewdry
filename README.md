@@ -1,0 +1,74 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Gabriel%20Verdejo&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Ingeniero%20en%20Informática%20|%20Full%20Stack%20Developer&descAlign=50&descAlignY=60&descSize=25" alt="Header" />
+
+  ### 🚀 Sobre mí
+</div>
+
+¡Hola! Soy **Gabriel Verdejo Alarcón**, un Ingeniero en Informática apasionado por el desarrollo de software empresarial y la optimización de procesos. Me especializo en la construcción de soluciones robustas utilizando **.NET** y **Python**.
+
+- 🔭 Actualmente estoy trabajando en **AthletIA**, un sistema de gestión inteligente para entrenamiento y nutrición.
+- 💼 Experiencia reciente optimizando gestión de adquisiciones y bases de datos en **INSICO S.A** con ASP.NET MVC y SQL Server.
+- 🌱 Aprendiendo profundamente sobre **Angular** y **Arquitectura de Software**.
+- 💡 Valoro la disciplina y la constancia, principios que aplico tanto en el código como en mi entrenamiento funcional.
+
+---
+
+<div align="center"> 
+  <h3>🛠️ Tech Stack</h3>
+</div>
+
+**Lenguajes y Backend:**
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+**Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**Base de Datos & Cloud:**
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+**Herramientas & Análisis:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
+
+---
+
+<div align="center">
+  <h3>📊 Estadísticas de GitHub</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tewdry&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tewdry&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📫 Contáctame</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/gabrielcamilov" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:gabrielcamiloverdejo@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div>
