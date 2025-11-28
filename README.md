@@ -31,6 +31,17 @@
 ---
 
 <div align="center">
+  <h3>📊 Actividad</h3>
+  <br>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Tewdry&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tewdry&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="langs"/>
+  </p>
+</div>
+
+---
+
+<div align="center">
   <h3>📫 Contáctame</h3>
   <p>
     <a href="https://www.linkedin.com/in/gabrielcamilov" target="_blank">
