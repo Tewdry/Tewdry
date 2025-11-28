@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Gabriel%20Verdejo&fontSize=85&animation=fadeIn&fontAlign=50&fontAlignY=30&desc=Ingeniero%20en%20Informática%20|%20Cloud%20&%20AI%20Enthusiast&descAlign=50&descAlignY=60&descSize=28&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Gabriel%20Verdejo&fontSize=85&animation=fadeIn&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20|%20Data%20&%20Cloud&descAlign=50&descAlignY=60&descSize=28&fontColor=ffffff" alt="Header" />
 
   ### 🚀 Sobre mí
 </div>
 
-¡Hola! Soy **Gabriel Verdejo Alarcón**, un Ingeniero en Informática apasionado por la evolución tecnológica. Aunque tengo una base sólida en desarrollo Full Stack con **.NET** y **Python**, mi enfoque profesional se está expandiendo hacia la **Arquitectura Cloud** y la **Inteligencia Artificial**.
+¡Hola! Soy **Gabriel Verdejo Alarcón**, un Ingeniero en Informática especializado en desarrollo **Backend** y **Ciencia de Datos**.
 
-- 🔭 Actualmente estoy desarrollando **AthletIA**, integrando modelos predictivos y lógica de negocio compleja para el entrenamiento inteligente.
-- ☁️ Capacitándome activamente en **Google Cloud Platform** y arquitecturas escalables.
-- 🤖 Especializándome en **Ciencia de Datos** y análisis de grandes volúmenes de información (Big Data).
-- 💼 Experiencia probada optimizando sistemas críticos en **INSICO S.A** con SQL Server y ASP.NET MVC.
+Tengo experiencia probada optimizando sistemas críticos con **.NET/SQL Server** y construyendo modelos predictivos con **Python**. Mi enfoque actual está en la arquitectura Cloud híbrida (**Azure/GCP**) y la automatización inteligente de procesos de negocio.
+
+- 🔭 **Proyecto Principal:** Estoy desarrollando **AthletIA**, una plataforma que combina Django y Azure con modelos de Machine Learning.
+- ☁️ **Cloud:** Capacitándome activamente en arquitecturas Serverless y Microservicios.
+- 🤖 **Data:** Profundizando en Pipelines de Datos (ETL) y Scikit-Learn.
 
 ---
 
@@ -21,12 +22,24 @@
 
 | Backend & Core | Frontend | Cloud & DevOps | IA & Data Science |
 | :---: | :---: | :---: | :---: |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 
 </div>
+
+---
+
+<div align="center">
+  <h3>💻 Proyectos Destacados</h3>
+</div>
+
+**🏋️ AthletIA (Proyecto de Título)**
+> *Plataforma de entrenamiento inteligente y nutrición.*
+- **Arquitectura:** MVT (Django) desplegada en **Azure App Service**.
+- **Data & AI:** Modelos predictivos con **Scikit-Learn** para personalización de rutinas.
+- **Backend:** Integración de **SQL Server** en Azure y Dockerización del entorno.
 
 ---
 
