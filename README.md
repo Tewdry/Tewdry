@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Gabriel%20Verdejo&fontSize=85&animation=fadeIn&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20|%20Data%20&%20Cloud&descAlign=50&descAlignY=60&descSize=28&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Gabriel%20Verdejo&fontSize=85&animation=fadeIn&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20|%20Data%20%26%20Cloud&descAlign=50&descAlignY=60&descSize=25&fontColor=ffffff" alt="Header" />
 
   ### 🚀 Sobre mí
 </div>
