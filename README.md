@@ -75,7 +75,7 @@ Tengo experiencia probada optimizando sistemas críticos con **.NET/SQL Server**
 <div align="center">
   <h3>📫 Contáctame</h3>
   <p>
-    <a href="https://www.linkedin.com/in/gabriel-verdejo-alarcón/" target="_blank">
+    <a href="https://www.linkedin.com/in/gabrielcamilov/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:gabrielcamiloverdejo@gmail.com">
