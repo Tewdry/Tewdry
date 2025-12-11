@@ -6,9 +6,9 @@
 
 ¡Hola! Soy **Gabriel Verdejo Alarcón**, un Ingeniero en Informática especializado en desarrollo **Backend** y **Ciencia de Datos**.
 
-Tengo experiencia probada optimizando sistemas críticos con **.NET/SQL Server** y construyendo modelos predictivos con **Python**. Mi enfoque actual está en la arquitectura Cloud híbrida (**Azure/GCP**) y la automatización inteligente de procesos de negocio.
+Tengo experiencia probada optimizando sistemas críticos con **.NET/SQL Server** y construyendo modelos predictivos con **Python**. Mi enfoque actual está en la arquitectura Cloud híbrida (**Azure/GCP**), la automatización inteligente de procesos de negocio y el Desarrollo FullStack (**Angular/TypeScript**).
 
-- 🔭 **Proyecto Principal:** Estoy desarrollando **AthletIA**, una plataforma que combina Django y Azure con modelos de Machine Learning.
+- 🔭 **Proyecto Principal:** Desarrolle **AthletIA**, una plataforma que combina Django y Azure con modelos de Machine Learning.
 - ☁️ **Cloud:** Capacitándome activamente en arquitecturas Serverless y Microservicios.
 - 🤖 **Data:** Profundizando en Pipelines de Datos (ETL) y Scikit-Learn.
 
