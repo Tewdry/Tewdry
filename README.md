@@ -50,24 +50,7 @@ Tengo experiencia probada optimizando sistemas críticos con **.NET/SQL Server**
 | :--- | :--- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="20"/> **Google Cloud** | **Implement Load Balancing on Compute Engine** <br> *Skill Badge - Validación técnica de arquitectura en la nube.* |
 | 🎓 **Duoc UC** | **Especialización en Ciencia de Datos** <br> *Análisis de datos, modelos predictivos y Big Data.* |
-| 🛡️ **Duoc UC** | **Diplomado en Ciberseguridad y Big Data** <br> *Gestión de proyectos tecnológicos y seguridad de la información.* |
 
-</div>
-
----
-
-<div align="center">
-  <h3>🔥 Constancia y Racha</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tewdry&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🏆 Trofeos</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tewdry&theme=git_dark&no-frame=true&margin-w=15&no-bg=true" alt="trophy" />
-  </a>
 </div>
 
 ---
